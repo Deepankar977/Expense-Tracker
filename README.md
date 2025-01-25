@@ -24,4 +24,4 @@ An interactive Python-based application that helps users manage their finances b
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/expense-tracker.git
-   cd expense-tracker
+   cd Expense-Tracker
